@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/2d672ed7-eda2-4a9d-bccc-b3428ad3b00b)
 
-**Introdução:**
+# Introdução:
 
-Redes Neurais Convolucionais para Classificação Multiclasse de Imagens de Espécies de Flores:
+# Redes Neurais Convolucionais para Classificação Multiclasse de Imagens de Espécies de Flores:
 
 A classificação multiclasse de imagens de espécies de flores é um desafio significativo na visão computacional, devido à complexidade e à variabilidade inerente dos padrões visuais encontrados nas diferentes espécies. Redes Neurais Convolucionais (CNNs) têm emergido como uma solução eficaz para este problema, aproveitando sua capacidade de aprender representações hierárquicas das características visuais diretamente dos dados de imagem. As CNNs utilizam uma arquitetura profunda composta por camadas convolucionais, que são capazes de capturar automaticamente características distintivas das flores, como forma, cor, textura e estrutura, sem a necessidade de pré-processamento manual intensivo.
 
@@ -20,7 +20,7 @@ As CNNs podem ser combinadas com outras técnicas de aprendizado profundo para m
 
 Com tudo, as Redes Neurais Convolucionais fornecem uma abordagem poderosa e flexível para a classificação multiclasse de imagens de espécies de flores. Sua capacidade de aprender e abstrair características complexas e hierárquicas das imagens permite a construção de modelos robustos que podem lidar eficazmente com a diversidade visual encontrada nas diferentes espécies de flores. A arquitetura profunda das CNNs, juntamente com técnicas modernas de regularização e aprendizado transferido, continua a melhorar a precisão e a eficiência da classificação de flores, tornando-as uma ferramenta essencial na botânica digital e na conservação da biodiversidade.
 
-Redes Neurais Convolucionais Para Classificação Multiclasse de Imagens em Outros Universos - Imagens Médicas:
+# Redes Neurais Convolucionais Para Classificação Multiclasse de Imagens em Outros Universos - Imagens Médicas:
 
 A classificação de imagens é uma tarefa central na visão computacional, onde se busca categorizar automaticamente imagens em diversas classes predefinidas. Este processo tem se beneficiado significativamente do desenvolvimento de Redes Neurais Convolucionais (CNNs), que são hoje a principal tecnologia utilizada para tal fim. As CNNs surgiram como uma evolução das redes neurais artificiais tradicionais, projetadas para trabalhar diretamente com dados estruturados em grades bidimensionais, como imagens, o que as torna particularmente adequadas para a detecção de padrões visuais.
 
@@ -38,7 +38,7 @@ Para melhorar a generalização e evitar overfitting, CNNs modernas incorporam t
 
 Podemos entender que, as Redes Neurais Convolucionais representam um avanço revolucionário na classificação de imagens, oferecendo um método eficiente e escalável para extrair e aprender características complexas diretamente dos dados. Sua arquitetura, que combina convoluções, pooling e camadas totalmente conectadas, permite a modelagem de padrões visuais com uma precisão e robustez incomparáveis, tornando-as a escolha de referência para tarefas de classificação de imagens multiclasse em diversos domínios da visão computacional como por exemplo imagens médicas.
 
-Uso da Arquitetura LeNet-5 em Redes Neurais Convolucionais para Classificação Multiclasse de Imagens de Espécies de Flores:
+# Uso da Arquitetura LeNet-5 em Redes Neurais Convolucionais para Classificação Multiclasse de Imagens de Espécies de Flores:
 
 A classificação multiclasse de imagens de espécies de flores representa um problema significativo na área de visão computacional, e a arquitetura LeNet-5, uma das pioneiras no campo das Redes Neurais Convolucionais (CNNs), oferece uma solução robusta e eficaz. Desenvolvida por Yann LeCun e seus colegas em 1998, a LeNet-5 foi inicialmente projetada para a tarefa de reconhecimento de dígitos manuscritos. No entanto, sua estrutura básica tem demonstrado grande eficácia em diversas aplicações de classificação de imagens, incluindo a identificação de espécies de flores.
 
@@ -56,7 +56,7 @@ Para melhorar a performance da LeNet-5 em tarefas complexas como a classificaç�
 
 A arquitetura LeNet-5, com sua simplicidade e eficiência, fornece uma base sólida para a classificação multiclasse de imagens de flores. Apesar de suas origens no reconhecimento de dígitos manuscritos, sua capacidade de aprender representações hierárquicas de características visuais e sua estrutura modular fazem dela uma escolha poderosa para a identificação de padrões complexos em imagens florais. Com ajustes e refinamentos modernos, a LeNet-5 continua a ser uma ferramenta valiosa na visão computacional, capacitando a identificação automática e precisa de espécies de flores e contribuindo para avanços em estudos científicos na botânica com recursos digitais e na preservação da biodiversidade influenciando a flora natural e campos da agricultura.
 
-Um Paralelo no Uso das Redes Neurais Convolucionais para Classificação Multiclasse de Imagens de Espécies de Flores e Imagens de Diagnóstico Médico:
+# Um Paralelo no Uso das Redes Neurais Convolucionais para Classificação Multiclasse de Imagens de Espécies de Flores e Imagens de Diagnóstico Médico:
 
 As Redes Neurais Convolucionais (CNNs) emergiram como uma abordagem robusta e amplamente adotada para a classificação de imagens em diversas aplicações, incluindo a classificação de espécies de flores e a análise de imagens médicas. Ambas as tarefas compartilham desafios comuns na análise de imagens multiclasse, onde o objetivo é categorizar uma imagem em uma de várias classes possíveis. A eficiência das CNNs em capturar e abstrair características visuais complexas permite que esses modelos lidem eficazmente com a diversidade e a variabilidade intrínsecas tanto nas imagens florais quanto nas imagens médicas.
 
@@ -74,9 +74,9 @@ As técnicas de regularização, como dropout e aumento de dados como já dito, 
 
 Ou seja, então, a aplicação das Redes Neurais Convolucionais na classificação multiclasse de imagens de espécies de flores e mamografias ilustra a poderosa capacidade dessas redes de extrair e aprender características visuais complexas. A arquitetura das CNNs permite uma análise detalhada e precisa das imagens, seja para identificar espécies de flores com base em suas características visuais ou para detectar anomalias mamárias em mamografias. A eficiência dessas redes em ambas as tarefas destaca sua versatilidade e potencial para melhorar a precisão e a eficácia na análise de imagens multiclasse em diferentes domínios.
 
-Conclusão:
+# Conclusão:
 
-Sobre o Uso das Redes Neurais Convolucionais Para Classificação Multiclasse de Imagens de Espécies de Flores Sendo Extensível Para a Classificação Multiclasse de Imagens Médicas Exemplo Mamografias:
+## Sobre o Uso das Redes Neurais Convolucionais Para Classificação Multiclasse de Imagens de Espécies de Flores Sendo Extensível Para a Classificação Multiclasse de Imagens Médicas Exemplo Mamografias:
 
 O uso de Redes Neurais Convolucionais (CNNs) para a classificação multiclasse de imagens de espécies de flores demonstrou ser uma abordagem eficiente e precisa, explorando a capacidade dessas redes de capturar e interpretar características visuais complexas. No domínio da classificação de flores, as CNNs foram treinadas para identificar padrões visuais específicos, como formas, texturas e cores, o que permitiu a discriminação eficaz entre diferentes espécies florais. Essa capacidade de aprendizagem profunda, que é um dos pilares das CNNs, tem se mostrado inestimável na análise e categorização de imagens florais, onde variações sutis na morfologia da flor são cruciais para a correta identificação da espécie.
 
@@ -90,7 +90,7 @@ A aplicação bem sucedida das CNNs em mamografias não só melhora a precisão 
 
 Comcluimos com este Projeto de estudo que, o sucesso das Redes Neurais Convolucionais na classificação multiclasse de imagens de espécies de flores demonstra sua capacidade de lidar com a complexidade e variabilidade das imagens visuais. Essa mesma capacidade pode ser explorada com grande eficácia na análise de mamografias, oferecendo uma ferramenta poderosa para a classificação multiclasse de imagens médicas. A habilidade das CNNs de aprender representações discriminativas e generalizar a partir de grandes volumes de dados sugere que essas redes são bem adequadas para enfrentar os desafios da análise de mamografias, proporcionando avanços significativos na detecção e diagnóstico de doenças mamárias. A sinergia entre o aprendizado profundo e a análise de imagens médicas representa um passo importante em direção a sistemas de apoio ao diagnóstico mais precisos e eficientes, beneficiando tanto a prática médica quanto os pacientes.
 
-Referência Bibliográfica:
+# Referência Bibliográfica:
 
 * NOCELI, Diego Nunes; COELHO, Alessandra Martins; BAFFA, Matheus de Freitas Oliveira. Uma Abordagem Multiclasse para a Caracterização de Flores Utilizando Redes Neurais Convolucionais. In: ENCONTRO NACIONAL DE COMPUTAÇÃO DOS INSTITUTOS FEDERAIS (ENCOMPIF), 8. , 2021, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 65-72. ISSN 2763-8766. DOI: https://doi.org/10.5753/encompif.2021.15952.
 
